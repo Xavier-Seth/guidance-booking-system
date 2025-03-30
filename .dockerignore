@@ -1,0 +1,12 @@
+node_modules
+vendor
+.env 
+.git
+.gitignore
+docker-compose.yml
+Dockerfile
+.docker/
+storage/*.key
+npm-debug.log
+yarn-error.log
+*.sqlite
